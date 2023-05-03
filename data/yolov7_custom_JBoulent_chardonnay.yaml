@@ -1,0 +1,11 @@
+train: /home/paperspace/GitHub/yolov7/annotated_datasets_for_yolo/FD_JBoulent/train
+val:  /home/paperspace/GitHub/yolov7/annotated_datasets_for_yolo/FD_JBoulent/val
+test: /home/paperspace/GitHub/yolov7/annotated_datasets_for_yolo/FD_JBoulent/test
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'FD', 'NONFD' ]
+# 0 --> 'FD'
+# 1 --> 'NONFD'

@@ -1,0 +1,11 @@
+train: /home/paperspace/GitHub/yolov7/annotated_datasets_for_yolo/Esca_FD_multivariety_white/train
+test: /home/paperspace/GitHub/yolov7/annotated_datasets_for_yolo/Esca_FD_multivariety_white/test
+val: /home/paperspace/GitHub/yolov7/annotated_datasets_for_yolo/Esca_FD_multivariety_white/val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['FD', 'ESCA']
+# 0 --> 'FD'
+# 1 --> 'ESCA'
